@@ -1,5 +1,5 @@
 //Student name: YingChen Liu//
-//Student number : 217532128//
+//Student number : //
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
